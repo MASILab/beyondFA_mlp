@@ -19,7 +19,7 @@ def seed_everything(seed=123):
 
 seed_everything()
 # Load the features and labels from the generated JSON file
-features_tensor, age_labels_tensor, sex_labels_tensor, cog_labels_tensor, secret1_tensor, secret2_tensor = ShallowMLP.load_json_data('generated_features.json')
+features_tensor, age_labels_tensor, sex_labels_tensor, cog_labels_tensor, secret1_tensor, secret2_tensor = ShallowMLP.load_json_data('generated_features.json') ##this will change based on the subject name
 
 # Create the dataloaders
 train_loader, val_loader = ShallowMLP.create_dataloaders(features_tensor, age_labels_tensor, sex_labels_tensor, cog_labels_tensor, secret1_tensor, secret2_tensor)
