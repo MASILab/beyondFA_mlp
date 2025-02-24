@@ -46,7 +46,7 @@ def run_inference(json_file):
         print(f"Predicted Secret Variable 2: {secret2_pred.item():.2f} (A reasonable value expectation is 0 to 100; you should not see values outside this range)")
 
 
-json_file='test_features.json' # Replace with the path to your JSON file
+json_file='test_features.json' # Replace with the path to your JSON file; should be named for your subject name
 run_inference(json_file)
 
 
