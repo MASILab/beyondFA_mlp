@@ -1,7 +1,5 @@
 # Beyond FA MLP
 Architecture for BFA evaluation method for teams to test their approaches
-# Beyond FA MLP
-Architecture for BFA evaluation method for teams to test their approaches
 
 <img src="https://github.com/MASILab/beyondFA_mlp/blob/main/4.png" alt="Challenge Logo" width="300">
 
