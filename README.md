@@ -3,7 +3,7 @@ Architecture for BFA evaluation method for teams to test their approaches
 
 ![alt text][Logo]
 
-[Logo]: https://github.com/MASILab/beyondFA_mlp/blob/main/4.png "Challenge Architecture"
+[Logo]: https://github.com/MASILab/beyondFA_mlp/blob/main/4.png "Challenge Logo"
 
 
 ## Overview
